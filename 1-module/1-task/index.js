@@ -3,6 +3,11 @@
  * @param {number} n
  * @returns {number}
  */
+
 function factorial(n) {
-  // ваш код...
+  let factNumber = 1;
+  for(let i = 1; i <= n; i++){
+      factNumber *= i;
+  }
+  return factNumber;
 }
