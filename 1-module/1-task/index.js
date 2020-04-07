@@ -11,4 +11,3 @@ function factorial(n) {
   }
   return factNumber;
 }
-console.log(factorial(3));
