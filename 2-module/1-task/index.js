@@ -9,5 +9,5 @@ function sumSalary(salaries) {
     if (typeof salaries[key] == "number") {
       sum += salaries[key];
     }
-  }return sum;
+  }return sum
 }
