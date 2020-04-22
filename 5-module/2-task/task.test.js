@@ -1,4 +1,4 @@
-fdescribe('5-module-2-task', () => {
+describe('5-module-2-task', () => {
   let buttonElement;
   let textElement;
 
